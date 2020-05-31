@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+https://circleci.com/gh/Machdie/Devops.svg?style=svg
 
 ## Project Overview
 

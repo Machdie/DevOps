@@ -1,6 +1,6 @@
-<include https://circleci.com/gh/Machdie/Devops.svg?style=svg>
+<include [![Machdie](https://circleci.com/gh/Machdie/Devops.svg?style=shield)](https://app.circleci.com/pipelines/github/Machdie/Devops/3/workflows/f6c166d2-6407-4a12-bbcb-cfc7216fb5f9)>
 
-## Project Overview!
+## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 

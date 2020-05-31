@@ -1,4 +1,4 @@
-<include [![Machdie](https://circleci.com/gh/Machdie/Devops.svg?style=shield)](https://app.circleci.com/pipelines/github/Machdie/Devops/3/workflows/f6c166d2-6407-4a12-bbcb-cfc7216fb5f9)>
+<[![Machdie](https://circleci.com/gh/Machdie/Devops.svg?style=svg)](https://app.circleci.com/pipelines/github/Machdie/Devops/3/workflows/f6c166d2-6407-4a12-bbcb-cfc7216fb5f9)>
 
 ## Project Overview
 
